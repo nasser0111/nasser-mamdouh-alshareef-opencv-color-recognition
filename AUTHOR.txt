@@ -1,0 +1,3 @@
+Project: OpenCV Color Recognition
+Prepared by: Nasser Mamdouh Alshareef
+إعداد الطالب: ناصر ممدوح الشريف

@@ -1,0 +1,10 @@
+name: opencv-color-recognition
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - numpy>=1.26,<3.0
+      - opencv-python>=4.9,<5.0
